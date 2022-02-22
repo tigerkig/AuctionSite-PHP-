@@ -1,0 +1,43 @@
+	[name] => Golden Bell Chronograph
+    [category] => 3
+    [sub_cat] => 7
+    [sub_sub_cat] => 17
+    [description] => Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est .
+    [features] => 
+    [weight] => 
+    [color] => 7
+    [size] => 
+    [price] => 10000  ||  12  ||  30  ||  40
+    [brand] => 2
+    [apa_vr_id] => 2
+    [stock] => 34
+    [video] => 
+    [status] => 0
+    [keep_in] => 1
+    [selling_price] => 10000
+	
+	
+	
+	
+	
+	
+	Array
+(
+    [0] => ABC
+    [1] => smart Phone
+    [2] => description
+    [3] => Battery        :        3000mah        ||        Display        :        5.5 inch        ||        Network        :        4G
+    [4] => 12
+    [5] => gm
+    [6] => Green
+    [7] => 32
+    [8] => cm
+    [9] => 44000
+    [10] => 11
+    [11] => 9
+    [12] => 8
+    [13] => Adidas
+    [14] => 32
+    [15] => www.dgbdf.com
+    [16] => simple
+)

@@ -1,0 +1,17 @@
+# Google
+user-agent:googlebot
+Allow : /
+
+# Yahoo
+user-agent: slurp
+Allow: /
+
+# MSN
+user-agent: msnbot
+Allow: /
+
+# others
+user-agent : *
+Allow: /
+
+sitemap : https://ouslet.com/sitemap.xml

@@ -1,0 +1,3 @@
+name,sub_sub_cat,description,features,weight,weight_unit,color,size,size_unit,price,tax,discount,shipping_cost,brand,stock,video,keep_in,image,vendor_email
+Just for testing,smart Phone,description,Battery        :        3000mah        ||        Display        :        5.5 inch        ||        Network        :        4G,12,gm,Green,32,cm,44000,11,9,8,Adidas,32,www.dgbdf.com,simple,"aaaa.jpg,bbbb.jpg",vendor@yourmail.com
+Just for testing,smart Phone,description,Battery        :        3000mah        ||        Display        :        5.5 inch        ||        Network        :        4G,12,gm,Green,32,cm,44000,11,9,8,Adidas,32,www.dgbdf.com,simple,"aaaa.jpg,bbbb.jpg",vendor1@yourmail.com

@@ -1,0 +1,2 @@
+name,category,sub_cat,sub_sub_cat,features,description,weight,color,size,size_unit,price,tax,discount,shipping_cost,brand,stock,video,keep_in,image,vendor_email
+ABC,test,12,12,Battery        :        3000mah        ||        Display        :        5.5 inch        ||        Network        :        4G,description,12,Green,32,cm,44000,11,9,8,Adidas,32,www.dgbdf.com,simple,"a.jpg,b.jpg",vendor@yourmail.com
